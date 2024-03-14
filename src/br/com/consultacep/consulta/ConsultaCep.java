@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Consulta {
+public class ConsultaCep {
     List<Endereco> listaDeEnderecos = new ArrayList<>();
     Gson gson = new GsonBuilder()
             .setPrettyPrinting()

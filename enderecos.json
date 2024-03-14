@@ -1,0 +1,26 @@
+[
+  {
+    "cep": "06713-100",
+    "logradouro": "Estrada Municipal do Embu",
+    "complemento": "",
+    "bairro": "Jardim Torino",
+    "localidade": "Cotia",
+    "uf": "SP"
+  },
+  {
+    "cep": "06713-290",
+    "logradouro": "Rua do Amor Perfeito",
+    "complemento": "",
+    "bairro": "Jardim Colibri",
+    "localidade": "Cotia",
+    "uf": "SP"
+  },
+  {
+    "cep": "06700-115",
+    "logradouro": "Rua Ladislau Nunes dos Santos",
+    "complemento": "",
+    "bairro": "Centro",
+    "localidade": "Cotia",
+    "uf": "SP"
+  }
+]
